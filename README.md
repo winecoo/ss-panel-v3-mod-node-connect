@@ -19,6 +19,6 @@ bash ss-panel-v3-mod-node-connect.sh
 
 原文地址：[sspanelv3魔改后端部署一键脚本](https://www.7colorblog.com/?id=32/)
 
-本人博客：[七彩blog](https://www.7colorblog.com/)
+作者博客：[七彩blog](https://www.7colorblog.com/)
 
-本人小店：[七彩杂货铺](https://faka.7colorblog.com/)
+作者小店：[七彩杂货铺](https://faka.7colorblog.com/)
